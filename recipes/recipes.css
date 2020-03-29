@@ -1,4 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Monoton&display=swap");
+
 body {
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
   background-image: url("wood_pattern.png");
+}
+
+.navbar-brand {
+  font-family: "Monoton", cursive;
+  font-size: 5em;
 }
